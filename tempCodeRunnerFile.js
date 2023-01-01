@@ -1,0 +1,1 @@
+        <Stack.Screen name="Profil" component={Profil} options={headerStyle} options={{headerShown:false}}/>
